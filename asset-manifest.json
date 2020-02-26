@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Web-Exercise-One/static/css/main.76cf24c4.chunk.css",
+    "main.js": "/Dynamic-Web-Exercise-One/static/js/main.8043227f.chunk.js",
+    "main.js.map": "/Dynamic-Web-Exercise-One/static/js/main.8043227f.chunk.js.map",
+    "runtime-main.js": "/Dynamic-Web-Exercise-One/static/js/runtime-main.2881e76b.js",
+    "runtime-main.js.map": "/Dynamic-Web-Exercise-One/static/js/runtime-main.2881e76b.js.map",
+    "static/js/2.b75d4dea.chunk.js": "/Dynamic-Web-Exercise-One/static/js/2.b75d4dea.chunk.js",
+    "static/js/2.b75d4dea.chunk.js.map": "/Dynamic-Web-Exercise-One/static/js/2.b75d4dea.chunk.js.map",
+    "index.html": "/Dynamic-Web-Exercise-One/index.html",
+    "precache-manifest.733cdd7da198f0db59460b12345022c7.js": "/Dynamic-Web-Exercise-One/precache-manifest.733cdd7da198f0db59460b12345022c7.js",
+    "service-worker.js": "/Dynamic-Web-Exercise-One/service-worker.js",
+    "static/css/main.76cf24c4.chunk.css.map": "/Dynamic-Web-Exercise-One/static/css/main.76cf24c4.chunk.css.map",
+    "static/js/2.b75d4dea.chunk.js.LICENSE.txt": "/Dynamic-Web-Exercise-One/static/js/2.b75d4dea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2881e76b.js",
+    "static/js/2.b75d4dea.chunk.js",
+    "static/css/main.76cf24c4.chunk.css",
+    "static/js/main.8043227f.chunk.js"
+  ]
+}
